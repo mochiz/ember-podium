@@ -14,4 +14,5 @@ App.ApplicationAdapter = DS.ActiveModelAdapter.extend({
 DS.RESTAdapter.reopen(
   headers:
     "X-CSRF-Token": $('meta[name="csrf-token"]').attr('content')
+  namespace: 'api/v1'
 )
