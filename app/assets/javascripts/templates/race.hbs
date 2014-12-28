@@ -5,14 +5,15 @@
   <div class='results row placeholders'>
     {{#each result in model.results}}
     <div class='col-xs-3 placeholder text-center'>
-      {{#if result.rider.avatar}}
-        <img {{bind-attr src=result.rider.avatar}} class='img-responsive img-circle' />
-      {{else}}
-        <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle' />
-      {{/if}}
-      <p>{{result.position}}. {{result.rider.name}}</p>
+      {{#link-to 'rider' result.rider  className='rider'}}
+        {{#if result.rider.avatar}}
+          <img {{bind-attr src=result.rider.avatar}} class='img-responsive img-circle' />
+        {{else}}
+          <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle' />
+        {{/if}}
+        <p>{{result.position}}. {{result.rider.name}}</p>
+      {{/link-to}}
     </div>
     {{/each}}
   </div>
 </article>
-

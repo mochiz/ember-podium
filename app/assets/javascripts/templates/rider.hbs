@@ -1,0 +1,14 @@
+<article id="rider">
+  <h1>{{model.name}}</h1>
+  {{#if model.avatar}}
+    <img {{bind-attr src=model.avatar}} class='img-responsive img-circle' />
+  {{else}}
+    <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle' />
+  {{/if}}
+  <p>チーム: {{model.team}}</p>
+  {{#each result in model.results}}
+    {{#link-to 'race' result.race  tagName='li' className='race'}}
+      {{result.race.name}} {{result.position}}位
+    {{/link-to}}
+  {{/each}}
+</article>
