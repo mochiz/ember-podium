@@ -1,0 +1,18 @@
+<article id="race">
+  <h1>{{model.name}}</h1>
+  <p>開催日: {{model.date}}</p>
+  <p>URL: <a {{bind-attr href=model.url}} target='_blank'>{{model.url}}</a></p>
+  <div class='results row placeholders'>
+    {{#each result in model.results}}
+    <div class='col-xs-3 placeholder text-center'>
+      {{#if result.rider.avatar}}
+        <img {{bind-attr src=result.rider.avatar}} class='img-responsive img-circle' />
+      {{else}}
+        <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle' />
+      {{/if}}
+      <p>{{result.position}}. {{result.rider.name}}</p>
+    </div>
+    {{/each}}
+  </div>
+</article>
+

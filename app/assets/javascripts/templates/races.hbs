@@ -1,7 +1,11 @@
-<article id='races'>
+<article id='races' class='col-sm-3'>
   <ul>
     {{#each race in controller}}
-      <li>{{race.name}}</li>
+      {{#link-to 'race' race tagName='li' className='race'}}
+        {{race.name}}
+      {{/link-to}}
     {{/each}}
   </ul>
 </article>
+
+{{outlet}}
