@@ -1,0 +1,391 @@
+# db/fixtures/results.yml
+result_giro_1:
+  race: ジロ・デ・イタリア
+  rider: ナイーロ・キンターナ
+  position: 1
+
+result_giro_2:
+  race: ジロ・デ・イタリア
+  rider: リゴベルト・ウラン
+  position: 2
+
+result_giro_3:
+  race: ジロ・デ・イタリア
+  rider: ファビオ・アル
+  position: 3
+
+result_tour_1:
+  race: ツール・ド・フランス
+  rider: ヴィンチェンツォ・ニバリ
+  position: 1
+
+result_tour_2:
+  race: ツール・ド・フランス
+  rider: ジャンクリストフ・ペロー
+  position: 2
+
+result_tour_3:
+  race: ツール・ド・フランス
+  rider: ティボー・ピノ
+  position: 3
+
+result_vuelta_1:
+  race: ブエルタ・ア・エスパーニャ
+  rider: アルベルト・コンタドール
+  position: 1
+
+result_vuelta_2:
+  race: ブエルタ・ア・エスパーニャ
+  rider: クリストファー・フルーム
+  position: 2
+
+result_vuelta_3:
+  race: ブエルタ・ア・エスパーニャ
+  rider: アレハンドロ・バルベルデ
+  position: 3
+
+result_under_1:
+  race: ツアー・ダウンアンダー
+  rider: サイモン・ゲランス
+  position: 1
+
+result_under_2:
+  race: ツアー・ダウンアンダー
+  rider: カデル・エヴァンズ
+  position: 2
+
+result_under_3:
+  race: ツアー・ダウンアンダー
+  rider: ディエゴ・ウリッシ
+  position: 3
+
+result_dubai_1:
+  race: ドバイツアー
+  rider: テイラー・フィニー
+  position: 1
+
+result_dubai_2:
+  race: ドバイツアー
+  rider: スティーヴン・カミングズ
+  position: 2
+
+result_dubai_3:
+  race: ドバイツアー
+  rider: ラセ・ノーマン・ハンセン
+  position: 3
+
+result_katal_1:
+  race: ツアー・オブ・カタール
+  rider: ニキ・テルプストラ
+  position: 1
+
+result_katal_2:
+  race: ツアー・オブ・カタール
+  rider: トム・ボーネン
+  position: 2
+
+result_katal_3:
+  race: ツアー・オブ・カタール
+  rider: ユルヘン・ルーランツ
+  position: 3
+
+result_oman_1:
+  race: ツアー・オブ・オマーン
+  rider: クリストファー・フルーム
+  position: 1
+
+result_oman_2:
+  race: ツアー・オブ・オマーン
+  rider: ティージェイ・ヴァンガーデレン
+  position: 2
+
+result_oman_3:
+  race: ツアー・オブ・オマーン
+  rider: リゴベルト・ウラン
+  position: 3
+
+result_letour_1:
+  race: パリ〜ニース
+  rider: カルロス・ベタンクール
+  position: 1
+
+result_letour_2:
+  race: パリ〜ニース
+  rider: ルイ・コスタ
+  position: 2
+
+result_letour_3:
+  race: パリ〜ニース
+  rider: アルチュール・ヴィショ
+  position: 3
+
+result_tirreno_1:
+  race: ティレーノ〜アドリアティコ
+  rider: アルベルト・コンタドール
+  position: 1
+
+result_tirreno_2:
+  race: ティレーノ〜アドリアティコ
+  rider: ナイーロ・キンターナ
+  position: 2
+
+result_tirreno_3:
+  race: ティレーノ〜アドリアティコ
+  rider: ロマン・クロイツィゲル
+  position: 3
+
+result_milano_1:
+  race: ミラノ〜サンレモ
+  rider: アレクサンデル・クリストフ
+  position: 1
+
+result_milano_2:
+  race: ミラノ〜サンレモ
+  rider: ファビアン・カンチェッラーラ
+  position: 2
+
+result_milano_3:
+  race: ミラノ〜サンレモ
+  rider: ベン・スウィフト
+  position: 3
+
+result_e3_1:
+  race: E3ハレルベーク
+  rider: ペテル・サガン
+  position: 1
+
+result_e3_2:
+  race: E3ハレルベーク
+  rider: ニキ・テルプストラ
+  position: 2
+
+result_e3_3:
+  race: E3ハレルベーク
+  rider: ゲレイント・トーマス
+  position: 3
+
+result_gent_1:
+  race: ヘント〜ウェベルヘム
+  rider: ジョン・デーゲンコルプ
+  position: 1
+
+result_gent_2:
+  race: ヘント〜ウェベルヘム
+  rider: アルノー・デマール
+  position: 2
+
+result_gent_3:
+  race: ヘント〜ウェベルヘム
+  rider: ペテル・サガン
+  position: 3
+
+result_ronde_1:
+  race: ロンド・ファン・フラーンデレン
+  rider: ファビアン・カンチェッラーラ
+  position: 1
+
+result_ronde_2:
+  race: ロンド・ファン・フラーンデレン
+  rider: フレフ・ファンアフェルマート
+  position: 2
+
+result_ronde_3:
+  race: ロンド・ファン・フラーンデレン
+  rider: セプ・ファンマルケ
+  position: 3
+
+result_rube_1:
+  race: パリ〜ルーベ
+  rider: ニキ・テルプストラ
+  position: 1
+
+result_rube_2:
+  race: パリ〜ルーベ
+  rider: ジョン・デーゲンコルプ
+  position: 2
+
+result_rube_3:
+  race: パリ〜ルーベ
+  rider: ファビアン・カンチェッラーラ
+  position: 3
+
+result_smstel_1:
+  race: アムステル・ゴールドレース
+  rider: フィリップ・ジルベール
+  position: 1
+
+result_smstel_2:
+  race: アムステル・ゴールドレース
+  rider: イェッレ・ファネンデルト
+  position: 2
+
+result_smstel_3:
+  race: アムステル・ゴールドレース
+  rider: サイモン・ゲランス
+  position: 3
+
+result_freche_1:
+  race: フレーシュ・ワロンヌ
+  rider: アレハンドロ・バルベルデ
+  position: 1
+
+result_freche_2:
+  race: フレーシュ・ワロンヌ
+  rider: ダニエル・マーティン
+  position: 2
+
+result_freche_3:
+  race: フレーシュ・ワロンヌ
+  rider: ミカル・クヴィアトコウスキー
+  position: 3
+
+result_liege_1:
+  race: リエージュ〜バストーニュ〜リエージュ
+  rider: サイモン・ゲランス
+  position: 1
+
+result_liege_2:
+  race: リエージュ〜バストーニュ〜リエージュ
+  rider: アレハンドロ・バルベルデ
+  position: 2
+
+result_liege_3:
+  race: リエージュ〜バストーニュ〜リエージュ
+  rider: ミカル・クヴィアトコウスキー
+  position: 3
+
+result_turkey_1:
+  race: ツアー・オブ・ターキー
+  rider: アダム・イェイツ
+  position: 1
+
+result_turkey ツアー・オブ・ターキー_レイン・ターラマエ:
+  race: 2
+  rider: コフィディス
+  position: レイン・ターラマエ
+
+result_turkey ツアー・オブ・ターキー_ロマン・アーディ:
+  race: 3
+  rider: コフィディス
+  position: ロマン・アーディ
+
+result_romandie_1:
+  race: ツール・ド・ロマンディ
+  rider: クリストファー・フルーム
+  position: 1
+
+result_romandie_2:
+  race: ツール・ド・ロマンディ
+  rider: シモン・シュピラク
+  position: 2
+
+result_romandie_3:
+  race: ツール・ド・ロマンディ
+  rider: ルイ・コスタ
+  position: 3
+
+result_dauphine_1:
+  race: クリテリウム・ドゥ・ドーフィネ
+  rider: アンドリュー・タランスキー
+  position: 1
+
+result_dauphine_2:
+  race: クリテリウム・ドゥ・ドーフィネ
+  rider: アルベルト・コンタドール
+  position: 2
+
+result_dauphine_3:
+  race: クリテリウム・ドゥ・ドーフィネ
+  rider: ユルヘン・ファンデンブルーク
+  position: 3
+
+result_suisse_1:
+  race: ツール・ド・スイス
+  rider: ルイ・コスタ
+  position: 1
+
+result_suisse_2:
+  race: ツール・ド・スイス
+  rider: マティアス・フランク
+  position: 2
+
+result_suisse_3:
+  race: ツール・ド・スイス
+  rider: バウケ・モレマ
+  position: 3
+
+result_quebec_1:
+  race: グランプリ・シクリスト・ド・ケベック
+  rider: サイモン・ゲランス
+  position: 1
+
+result_quebec_2:
+  race: グランプリ・シクリスト・ド・ケベック
+  rider: トム・ドゥムラン
+  position: 2
+
+result_quebec_3:
+  race: グランプリ・シクリスト・ド・ケベック
+  rider: ラムーナス・ナヴァルダウスカス
+  position: 3
+
+result_montreal_1:
+  race: グランプリ・シクリスト・ド・モンレアル
+  rider: サイモン・ゲランス
+  position: 1
+
+result_montreal_2:
+  race: グランプリ・シクリスト・ド・モンレアル
+  rider: ルイ・コスタ
+  position: 2
+
+result_montreal_3:
+  race: グランプリ・シクリスト・ド・モンレアル
+  rider: トニー・ガロパン
+  position: 3
+
+result_world_1:
+  race: ロード世界選手権
+  rider: ミカル・クヴィアトコウスキー
+  position: 1
+
+result_world_2:
+  race: ロード世界選手権
+  rider: サイモン・ゲランス
+  position: 2
+
+result_world_3:
+  race: ロード世界選手権
+  rider: アレハンドロ・バルベルデ
+  position: 3
+
+result_lombardia_1:
+  race: イル・ロンバルディア
+  rider: ダニエル・マーティン
+  position: 1
+
+result_lombardia_2:
+  race: イル・ロンバルディア
+  rider: アレハンドロ・バルベルデ
+  position: 2
+
+result_lombardia_3:
+  race: イル・ロンバルディア
+  rider: ルイ・コスタ
+  position: 3
+
+result_jc_1:
+  race: ジャパンカップサイクルロードレース
+  rider: ネイサン・ハース
+  position: 1
+
+result_jc_2:
+  race: ジャパンカップサイクルロードレース
+  rider: エドヴァルド・ボアソン・ハーゲン
+  position: 2
+
+result_jc_3:
+  race: ジャパンカップサイクルロードレース
+  rider: グレガ・ボーレ
+  position: 3
+

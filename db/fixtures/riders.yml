@@ -1,0 +1,258 @@
+# db/fixtures/riders.yml
+rider_1:
+  name: アルベルト・コンタドール
+  avatar: http://www.tinkoffsaxo.com/wp-content/uploads/CONTADOR-TINKOFF-SAXO-LUCA_0095-e1392202735231-400x400.jpg
+  team: ティンコフ・サクソ
+
+rider_2:
+  name: クリストファー・フルーム
+  avatar: http://www.teamsky.com/Images/teamsky/profile-2014/rider-profile-chris-froome.jpg
+  team: チーム・スカイ
+
+rider_3:
+  name: ヴィンチェンツォ・ニバリ
+  avatar: https://astanaproteam.files.wordpress.com/2014/01/nibali-astana-pro-team-2014-1694.jpg
+  team: アスタナ
+
+rider_4:
+  name: アレハンドロ・バルベルデ
+  avatar:
+  team: モビスター
+
+rider_5:
+  name: ナイーロ・キンターナ
+  avatar:
+  team: モビスター
+
+rider_6:
+  name: リゴベルト・ウラン
+  avatar:
+  team: オメガファーマ・クイックステップ
+
+rider_7:
+  name: ファビオ・アル
+  avatar:
+  team: アスタナ
+
+rider_8:
+  name: ジャンクリストフ・ペロー
+  avatar:
+  team: AG2Rラモンディアール
+
+rider_9:
+  name: ティボー・ピノ
+  avatar:
+  team: FDJ.FR
+
+
+
+rider_01:
+  name: アダム・イェイツ
+  avatar:
+  team: オリカ・グリーンエッジ
+
+rider_02:
+  name: アルチュール・ヴィショ
+  avatar:
+  team: FDJ.FR
+
+rider_03:
+  name: アルノー・デマール
+  avatar:
+  team: FDJ.FR
+
+rider_04:
+  name: アレクサンデル・クリストフ
+  avatar:
+  team: カチューシャ
+
+rider_05:
+  name: アンドリュー・タランスキー
+  avatar:
+  team: ガーミン・シャープ
+
+rider_06:
+  name: イェッレ・ファネンデルト
+  avatar:
+  team: ロット・ベリソル
+
+rider_07:
+  name: エドヴァルド・ボアソン・ハーゲン
+  avatar:
+  team: チーム・スカイ
+
+rider_08:
+  name: カデル・エヴァンズ
+  avatar:
+  team: BMCレーシング
+
+rider_09:
+  name: カルロス・ベタンクール
+  avatar:
+  team: AG2Rラモンディアール
+
+rider_10:
+  name: グレガ・ボーレ
+  avatar:
+  team: ヴィーニ・ファンティーニ・ニッポ
+
+rider_11:
+  name: ゲレイント・トーマス
+  avatar:
+  team: チーム・スカイ
+
+rider_12:
+  name: サイモン・ゲランス
+  avatar:
+  team: オリカ・グリーンエッジ
+
+rider_13:
+  name: サイモン・ゲランス
+  avatar:
+  team: オーストラリア
+
+rider_14:
+  name: シモン・シュピラク
+  avatar:
+  team: カチューシャ
+
+rider_15:
+  name: ジョン・デーゲンコルプ
+  avatar:
+  team: ジャイアント・シマノ
+
+rider_16:
+  name: スティーヴン・カミングズ
+  avatar:
+  team: BMCレーシング
+
+rider_17:
+  name: セプ・ファンマルケ
+  avatar:
+  team: ベルキン
+
+rider_18:
+  name: ダニエル・マーティン
+  avatar:
+  team: ガーミン・シャープ
+
+rider_19:
+  name: ティージェイ・ヴァンガーデレン
+  avatar:
+  team: BMCレーシング
+
+rider_20:
+  name: テイラー・フィニー
+  avatar:
+  team: BMCレーシング
+
+rider_21:
+  name: ディエゴ・ウリッシ
+  avatar:
+  team: ランプレ・メリダ
+
+rider_22:
+  name: トニー・ガロパン
+  avatar:
+  team: ロット・ベリソル
+
+rider_23:
+  name: トム・ドゥムラン
+  avatar:
+  team: ジャイアント・シマノ
+
+rider_24:
+  name: トム・ボーネン
+  avatar:
+  team: オメガファーマ・クイックステップ
+
+rider_25:
+  name: ニキ・テルプストラ
+  avatar:
+  team: オメガファーマ・クイックステップ
+
+rider_26:
+  name: ネイサン・ハース
+  avatar:
+  team: ガーミン・シャープ
+
+rider_27:
+  name: バウケ・モレマ
+  avatar:
+  team: ベルキン
+
+rider_28:
+  name: ファビアン・カンチェッラーラ
+  avatar:
+  team: トレックファクトリーレーシング
+
+rider_29:
+  name: フィリップ・ジルベール
+  avatar:
+  team: BMCレーシング
+
+rider_30:
+  name: フレフ・ファンアフェルマート
+  avatar:
+  team: BMCレーシング
+
+rider_31:
+  name: ベン・スウィフト
+  avatar:
+  team: チーム・スカイ
+
+rider_32:
+  name: ペテル・サガン
+  avatar:
+  team: キャノンデール
+
+rider_33:
+  name: マティアス・フランク
+  avatar:
+  team: IAMサイクリング
+
+rider_34:
+  name: ミカル・クヴィアトコウスキー
+  avatar:
+  team: オメガファーマ・クイックステップ
+
+rider_35:
+  name: ユルヘン・ファンデンブルーク
+  avatar:
+  team: ロット・ベリソル
+
+rider_36:
+  name: ユルヘン・ルーランツ
+  avatar:
+  team: ロット・ベリソル
+
+rider_37:
+  name: ラセ・ノーマン・ハンセン
+  avatar:
+  team: ガーミン・シャープ
+
+rider_38:
+  name: ラムーナス・ナヴァルダウスカス
+  avatar:
+  team: ガーミン・シャープ
+
+rider_39:
+  name: ルイ・コスタ
+  avatar:
+  team: ランプレ・メリダ
+
+rider_40:
+  name: レイン・ターラマエ コフィディス
+  avatar:
+  team: ソリュシオンクレディ
+
+rider_41:
+  name: ロマン・アーディ コフィディス
+  avatar:
+  team: ソリュシオンクレディ
+
+rider_42:
+  name: ロマン・クロイツィゲル
+  avatar:
+  team: ティンコフ・サクソ
+

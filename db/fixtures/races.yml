@@ -1,0 +1,209 @@
+# db/fixtures/races.yml
+race_1:
+  name: ジロ・デ・イタリア
+  icon: 
+  image:
+  start_at: 2014/05/09
+  end_at: 2014/06/01
+  url: http://www.gazzetta.it/Giroditalia/2014/it/
+
+race_2:
+  name: ツール・ド・フランス
+  icon: 
+  image:
+  start_at: 2014/07/05
+  end_at: 2014/07/27
+  url: http://www.letour.fr/le-tour/2014/us/
+
+race_3:
+  name: ブエルタ・ア・エスパーニャ
+  icon: 
+  image:
+  start_at: 2014/08/23
+  end_at: 2014/09/14
+  url: http://www.lavuelta.com/14/es/
+
+race_01:
+  name: ツアー・ダウンアンダー
+  icon: 
+  image:
+  start_at: 2014/01/09
+  end_at: 2014/01/26
+  url: http://www.tourdownunder.com.au
+
+race_02:
+  name: ドバイツアー
+  icon: 
+  image:
+  start_at: 2014/02/05
+  end_at: 2014/02/08
+  url: http://dubaitour.com
+
+race_03:
+  name: ツアー・オブ・カタール
+  icon: 
+  image:
+  start_at: 2014/02/09
+  end_at: 2014/02/15
+  url: http://www.letour.fr/indexTQA_us.html
+
+race_04:
+  name: ツアー・オブ・オマーン
+  icon: 
+  image:
+  start_at: 2014/02/18
+  end_at: 2014/02/23
+  url: http://www.letour.fr/tour-of-oman/2014/us/
+
+race_05:
+  name: パリ〜ニース
+  icon: 
+  image:
+  start_at: 2014/03/09
+  end_at: 2014/03/16
+  url: http://www.letour.fr/indexPNC_us.html
+
+race_06:
+  name: ティレーノ〜アドリアティコ
+  icon: 
+  image:
+  start_at: 2014/03/12
+  end_at: 2014/03/18
+  url: http://www.gazzetta.it/Speciali/TirrenoAdriatico/en/?lang=en&t=01
+
+race_07:
+  name: ミラノ〜サンレモ
+  icon: 
+  image:
+  start_at: 2014/03/23
+  end_at:
+  url: http://www.gazzetta.it/Speciali/MilanoSanremo/en/
+
+race_08:
+  name: E3ハレルベーク
+  icon: 
+  image:
+  start_at: 2014/03/28
+  end_at:
+  url: http://www.e3-harelbeke.be
+
+race_09:
+  name: ヘント〜ウェベルヘム
+  icon: 
+  image:
+  start_at: 2014/03/30
+  end_at:
+  url: http://www.gent-wevelgem.be
+
+race_10:
+  name: ロンド・ファン・フラーンデレン
+  icon: 
+  image:
+  start_at: 2014/04/06
+  end_at:
+  url: http://www.rondevanvlaanderen.be/nl
+
+race_11:
+  name: パリ〜ルーベ
+  icon: 
+  image:
+  start_at: 2014/04/13
+  end_at:
+  url: http://www.letour.fr/indexPRX_fr.html
+
+race_12:
+  name: アムステル・ゴールドレース
+  icon: 
+  image:
+  start_at: 2014/04/20
+  end_at:
+  url: http://www.amstel.nl/agecheck
+
+race_13:
+  name: フレーシュ・ワロンヌ
+  icon: 
+  image:
+  start_at: 2014/04/23
+  end_at:
+  url: http://www.letour.fr/indexFWH_fr.html
+
+race_14:
+  name: リエージュ〜バストーニュ〜リエージュ
+  icon: 
+  image:
+  start_at: 2014/04/27
+  end_at:
+  url: http://www.letour.fr/indexLBL_fr.html
+
+race_15:
+  name: ツアー・オブ・ターキー
+  icon: 
+  image:
+  start_at: 2014/04/27
+  end_at: 2014/05/04
+  url: http://www.tourofturkey.org/2014/
+
+race_15:
+  name: ツール・ド・ロマンディ
+  icon: 
+  image:
+  start_at: 2014/04/29
+  end_at: 2014/05/04
+  url: http://www.tourderomandie.ch
+
+race_17:
+  name: クリテリウム・ドゥ・ドーフィネ
+  icon: 
+  image:
+  start_at: 2014/06/08
+  end_at: 2014/06/15
+  url: http://www.letour.fr/indexCDD_fr.html
+
+race_18:
+  name: ツール・ド・スイス
+  icon: 
+  image:
+  start_at: 2014/06/14
+  end_at: 2014/06/22
+  url: http://www.tourdesuisse.ch/de/
+
+race_19:
+  name: グランプリ・シクリスト・ド・ケベック
+  icon: 
+  image:
+  start_at: 2014/09/12
+  end_at:
+  url: http://gpcqm.ca/fr/accueil/
+
+race_20:
+  name: グランプリ・シクリスト・ド・モンレアル
+  icon: 
+  image:
+  start_at: 2014/09/14
+  end_at:
+  url: http://gpcqm.ca/fr/accueil/
+
+race_21:
+  name: ロード世界選手権
+  icon: 
+  image:
+  start_at: 2014/09/21
+  end_at: 2014/09/28
+  url: http://www.mundialciclismoponferrada.com
+
+race_22:
+  name: イル・ロンバルディア
+  icon: 
+  image:
+  start_at: 2014/10/05
+  end_at:
+  url: http://www.gazzetta.it/Speciali/GiroLombardia/it/
+
+race_23:
+  name: ジャパンカップサイクルロードレース
+  icon: 
+  image:
+  start_at: 2014/10/11
+  end_at: 2014/10/19
+  url: http://www.japancup.gr.jp
+
