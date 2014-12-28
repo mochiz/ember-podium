@@ -1,0 +1,23 @@
+<article id="index">
+  <ul>
+    {{#each race in controller}}
+      {{#link-to 'race' race tagName='li' className='race'}}
+        <h1>{{race.name}}</h1>
+      {{/link-to}}
+      <div class='results row placeholders'>
+      {{#each result in race.results}}
+        <div class='col-xs-4 col-sm-3 placeholder text-center'>
+          {{#link-to 'rider' result.rider  className='rider'}}
+          {{#if result.rider.avatar}}
+            <img {{bind-attr src=result.rider.avatar}} class='img-responsive img-circle' />
+          {{else}}
+            <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle' />
+          {{/if}}
+          <p>{{result.position}}. {{result.rider.name}}</p>
+          {{/link-to}}
+        </div>
+      {{/each}}
+      </div>
+    {{/each}}
+  </ul>
+</article>
