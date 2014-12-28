@@ -37,6 +37,8 @@ gem 'ember-rails-assets' # Ember側でRails Assets画像を使えるようにす
 gem 'momentjs-rails' # momentjsで日付を便利に扱えるようにする
 gem 'bootstrap-sass', '~> 3.1.1'
 
+gem 'rails_12factor', group: :production
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
