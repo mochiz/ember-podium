@@ -1,258 +1,300 @@
 # db/fixtures/riders.yml
 rider_1:
   name: アルベルト・コンタドール
-  avatar: http://www.tinkoffsaxo.com/wp-content/uploads/CONTADOR-TINKOFF-SAXO-LUCA_0095-e1392202735231-400x400.jpg
+  avatar: https://pbs.twimg.com/profile_images/544056883737538561/uwYKAquB_400x400.jpeg
   team: ティンコフ・サクソ
+  twitter: https://twitter.com/albertocontador
 
 rider_2:
   name: クリストファー・フルーム
-  avatar: http://www.teamsky.com/Images/teamsky/profile-2014/rider-profile-chris-froome.jpg
+  avatar: https://pbs.twimg.com/profile_images/498796371709669377/hsT2IEkk_400x400.jpeg
   team: チーム・スカイ
+  twitter: https://twitter.com/chrisfroome
 
 rider_3:
   name: ヴィンチェンツォ・ニバリ
-  avatar: https://astanaproteam.files.wordpress.com/2014/01/nibali-astana-pro-team-2014-1694.jpg
+  avatar: https://pbs.twimg.com/profile_images/543895896224960512/YbqgP-xr_400x400.jpeg
   team: アスタナ
+  twitter: https://twitter.com/vincenzonibali
 
 rider_4:
   name: アレハンドロ・バルベルデ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/459204474457059329/M88tIFls_400x400.jpeg
   team: モビスター
+  twitter: https://twitter.com/alejanvalverde
 
 rider_5:
   name: ナイーロ・キンターナ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/512384667325321216/a8EjVcuu_400x400.jpeg
   team: モビスター
+  twitter: https://twitter.com/NairoQuinCo
 
 rider_6:
   name: リゴベルト・ウラン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/546008884369174528/laYu5M5y_400x400.jpeg
   team: オメガファーマ・クイックステップ
+  twitter: https://twitter.com/UranRigoberto
 
 rider_7:
   name: ファビオ・アル
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/3546789437/9581467d84f8390f2efb19365700b2cd_400x400.jpeg
   team: アスタナ
+  twitter: https://twitter.com/FabioAru1
 
 rider_8:
   name: ジャンクリストフ・ペロー
   avatar:
   team: AG2Rラモンディアール
+  twitter: 
 
 rider_9:
   name: ティボー・ピノ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/498576439155765249/Lmlm4T9V_400x400.jpeg
   team: FDJ.FR
-
+  twitter: https://twitter.com/thibautpinot
 
 
 rider_01:
   name: アダム・イェイツ
   avatar:
   team: オリカ・グリーンエッジ
+  twitter: 
 
 rider_02:
   name: アルチュール・ヴィショ
   avatar:
   team: FDJ.FR
+  twitter: 
 
 rider_03:
   name: アルノー・デマール
   avatar:
   team: FDJ.FR
+  twitter: 
 
 rider_04:
   name: アレクサンデル・クリストフ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/3083780113/99651d72b25da71b7601fde0d9310b6d_400x400.jpeg
   team: カチューシャ
+  twitter: https://twitter.com/kristoff87
 
 rider_05:
   name: アンドリュー・タランスキー
   avatar:
   team: ガーミン・シャープ
+  twitter: 
 
 rider_06:
   name: イェッレ・ファネンデルト
   avatar:
   team: ロット・ベリソル
+  twitter: 
 
 rider_07:
   name: エドヴァルド・ボアソン・ハーゲン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/2502649807/jdwhahw0ajk4t0pu7b2g_400x400.jpeg
   team: チーム・スカイ
+  twitter: https://twitter.com/EBhagen
 
 rider_08:
   name: カデル・エヴァンズ
   avatar:
   team: BMCレーシング
+  twitter: 
 
 rider_09:
   name: カルロス・ベタンクール
   avatar:
   team: AG2Rラモンディアール
+  twitter: 
 
 rider_10:
   name: グレガ・ボーレ
   avatar:
   team: ヴィーニ・ファンティーニ・ニッポ
+  twitter: 
 
 rider_11:
   name: ゲレイント・トーマス
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/496695363747991552/_Iqko5BK_400x400.jpeg
   team: チーム・スカイ
+  twitter: https://twitter.com/geraintthomas86
 
 rider_12:
   name: サイモン・ゲランス
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/461393087420321792/CzJslkmP_400x400.jpeg
   team: オリカ・グリーンエッジ
-
-rider_13:
-  name: サイモン・ゲランス
-  avatar:
-  team: オーストラリア
+  twitter: https://twitter.com/simongerrans
 
 rider_14:
   name: シモン・シュピラク
   avatar:
   team: カチューシャ
+  twitter: 
 
 rider_15:
   name: ジョン・デーゲンコルプ
   avatar:
   team: ジャイアント・シマノ
+  twitter: 
 
 rider_16:
   name: スティーヴン・カミングズ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/2609592194/SPTDW503_400x400.jpg
   team: BMCレーシング
+  twitter: https://twitter.com/stevocummings
 
 rider_17:
   name: セプ・ファンマルケ
   avatar:
   team: ベルキン
+  twitter: 
 
 rider_18:
   name: ダニエル・マーティン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/3561708770/1c6a7b9ec326491dd67dc7da373dd71d_400x400.jpeg
   team: ガーミン・シャープ
 
 rider_19:
   name: ティージェイ・ヴァンガーデレン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/545698635019988993/bBkiFrDR_400x400.jpeg
   team: BMCレーシング
+  twitter: https://twitter.com/tejay_van
 
 rider_20:
   name: テイラー・フィニー
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/527632902310617088/FCJjpObP_400x400.jpeg
   team: BMCレーシング
+  twitter: https://twitter.com/taylorphinney
 
 rider_21:
   name: ディエゴ・ウリッシ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/3192787862/d0d026097b24997c75fae918d6c0c84b_400x400.jpeg
   team: ランプレ・メリダ
+  twitter: https://twitter.com/diegoulissi
 
 rider_22:
   name: トニー・ガロパン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/419831430051422208/62XPXdFR_400x400.jpeg
   team: ロット・ベリソル
+  twitter: https://twitter.com/tonygallopin
 
 rider_23:
   name: トム・ドゥムラン
   avatar:
   team: ジャイアント・シマノ
+  twitter:
 
 rider_24:
   name: トム・ボーネン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/2222457227/twitter_400x400.jpg
   team: オメガファーマ・クイックステップ
+  twitter: https://twitter.com/tomboonen1
 
 rider_25:
   name: ニキ・テルプストラ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/454235005963628544/l0m-Kaqv_400x400.jpeg
   team: オメガファーマ・クイックステップ
+  twitter: https://twitter.com/nikiterpstra
 
 rider_26:
   name: ネイサン・ハース
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/484040286851436544/QtEEeq9n_400x400.jpeg
   team: ガーミン・シャープ
+  twitter: https://twitter.com/nathanpeterhaas
 
 rider_27:
   name: バウケ・モレマ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/475384382350315520/rAUpXyVE_400x400.png
   team: ベルキン
+  twitter: https://twitter.com/baukemollema
 
 rider_28:
   name: ファビアン・カンチェッラーラ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/443792210836721665/7VsrGKrZ_400x400.jpeg
   team: トレックファクトリーレーシング
+  twitter: https://twitter.com/f_cancellara
 
 rider_29:
   name: フィリップ・ジルベール
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/460863401364054016/OLOccqF6_400x400.jpeg
   team: BMCレーシング
+  twitter: https://twitter.com/philippegilbert
 
 rider_30:
   name: フレフ・ファンアフェルマート
   avatar:
   team: BMCレーシング
+  twitter:
 
 rider_31:
   name: ベン・スウィフト
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/454740845208825856/IEOcMGP1_400x400.jpeg
   team: チーム・スカイ
+  twitter: https://twitter.com/swiftybswift
 
 rider_32:
   name: ペテル・サガン
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/3114194682/92726a4616bd628233dac53155f25819_400x400.jpeg
   team: キャノンデール
+  twitter: https://twitter.com/petosagan
 
 rider_33:
   name: マティアス・フランク
   avatar:
   team: IAMサイクリング
+  twitter:
 
 rider_34:
   name: ミカル・クヴィアトコウスキー
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/434981680429150208/sYgPbbeH_400x400.jpeg
   team: オメガファーマ・クイックステップ
+  twitter: https://twitter.com/michalkwiatek
 
 rider_35:
   name: ユルヘン・ファンデンブルーク
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/467332995930914816/WZo2MW8v_400x400.jpeg
   team: ロット・ベリソル
+  twitter: https://twitter.com/vdb_jurgen
 
 rider_36:
   name: ユルヘン・ルーランツ
   avatar:
   team: ロット・ベリソル
+  twitter:
 
 rider_37:
   name: ラセ・ノーマン・ハンセン
   avatar:
   team: ガーミン・シャープ
+  twitter:
 
 rider_38:
   name: ラムーナス・ナヴァルダウスカス
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/3222341765/df2d80f08ece32edd4518aa46ab554d9_400x400.jpeg
   team: ガーミン・シャープ
+  twitter: https://twitter.com/ramunas88
 
 rider_39:
   name: ルイ・コスタ
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/519589202921402369/MnM0_OU2_400x400.jpeg
   team: ランプレ・メリダ
+  twitter: https://twitter.com/ruicostacyclist
 
 rider_40:
   name: レイン・ターラマエ コフィディス
   avatar:
   team: ソリュシオンクレディ
+  twitter:
 
 rider_41:
   name: ロマン・アーディ コフィディス
   avatar:
   team: ソリュシオンクレディ
+  twitter:
 
 rider_42:
   name: ロマン・クロイツィゲル
-  avatar:
+  avatar: https://pbs.twimg.com/profile_images/537236396504002560/i7WUa0f3_400x400.jpeg
   team: ティンコフ・サクソ
-
+  twitter: https://pbs.twimg.com/profile_images/537236396504002560/i7WUa0f3_400x400.jpeg
