@@ -15,7 +15,8 @@ riders = YAML.load_file(Rails.root.join('db', 'fixtures', 'riders.yml'))
 riders.each do |key, value|
   Rider.create(name: value['name'],
                avatar: value['avatar'],
-               team: value['team'])
+               team: value['team'],
+               twitter: value['twitter'])
 end
 
 results = YAML.load_file(Rails.root.join('db', 'fixtures', 'results.yml'))

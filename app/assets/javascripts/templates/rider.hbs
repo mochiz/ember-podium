@@ -1,11 +1,12 @@
 <article id="rider">
   <h1>{{model.name}}</h1>
   {{#if model.avatar}}
-    <img {{bind-attr src=model.avatar}} class='img-responsive img-circle' />
+    <img {{bind-attr src=model.avatar}} class='img-responsive img-rounded icon' />
   {{else}}
-    <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle' />
+    <img src='{{asset-path "no_image.png"}}' class='img-responsive img-circle icon' />
   {{/if}}
   <p>チーム: {{model.team}}</p>
+  <p>twitter: <a {{bind-attr href=model.twitter}} target='_blank'>{{model.twitter}}</a></p>
   {{#each result in model.results}}
     {{#link-to 'race' result.race  tagName='li' className='race'}}
       {{result.race.name}} {{result.position}}位
